@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robostep9829
 - 👀 I'm developing parody games and tinkering in 
 server and virtualization software.
-- 🌱 I’m currently learning Unreal Engine 4, Blender, Zbrush, Hyper-V.
+- 🌱 I’m currently learning Unreal Engine 5, Blender, I2P, Hyper-V.
 - 📫 Discord: robostep9829#3428
 
 <!---
