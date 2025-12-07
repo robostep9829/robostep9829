@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @robostep9829
 - 👀 I'm developing parody games and tinkering in 
 server and virtualization software.
-- 🌱 I’m currently learning Unreal Engine 5, Blender, Rust, Vulkan
+- 🌱 I’m currently learning Blender, Rust, Vulkan
 - 📫 Discord: robostep9829#3428
 
 <!---
